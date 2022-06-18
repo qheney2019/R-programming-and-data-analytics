@@ -13,6 +13,9 @@ country<- "NIGERIA"
 #colour - character data
 #country - character data
 
+# great work for the first 14 lines, the only obsevation is the number data type as you mention is called numeric data type 
+
+
 #4 create five(5) numerical variables with the value 50, 100, 150, 200 and 250
 #5 assign a variable name a-e for the five(5) variables respectively
 #6 perform the following operations on the above variable: addition, substraction , multiplication and division)
@@ -45,6 +48,8 @@ a%/%b
 a%%b
 a!=b
 
+#All the line of codes from 24 - 29 are correct, the only thing i expect is you comment/answer each line 
+
 #8 create three(3) character variables: is a country, in Africa, Nigeria
 #name the country as: where, continent, country
 #write a code thatb return "Nigeria is a country in Africa
@@ -54,3 +59,5 @@ continent<- "in Africa"
 country<- "Nigeria"
 
 paste("Nigeria", "is a counttry", "in Africa")
+
+#the last line of code is incorrect, you write the variable name so it can return the variable,,, you suppose to paste where, continent and country
